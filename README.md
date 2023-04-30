@@ -1,21 +1,25 @@
 ### hey there 
+<center>
 <!-- <a href="https://www.instagram.com/f/">
-  <img align="left" alt="Mahmoud's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Mahmoud's Instagram" width="42px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> -->
 <a href="https://leetcode.com/MahmoudBdran/">
-  <img align="left" alt="Mahmoud Bdran's LeetCode" width="22px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
+  <img align="left" alt="Mahmoud Bdran's LeetCode" width="42px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
 </a>
 <a href="https://www.hackerrank.com/mahmoud_bdran_j1">
-  <img align="left" alt="Mahmoud Bdran's HackerRank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
+  <img align="left" alt="Mahmoud Bdran's HackerRank" width="42px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
 <a href="https://www.facebook.com/hoda30899/">
-  <img align="left" alt="Mahmoud Bdran | Facebook" width="22px" src="https://logowik.com/content/uploads/images/new-facebook-logo-2019.jpg" />
+  <img align="left" alt="Mahmoud Bdran | Facebook" width="42px" src="https://logowik.com/content/uploads/images/new-facebook-logo-2019.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/mahmoudbdran/">
-  <img align="left" alt="Mahmoud Bdran's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mahmoud Bdran's LinkedIn" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+</center>
 
+<br />
+<br />
 <br />
 
 hi, i'm [Mahmoud Bdran](https://www.linkedin.com/in/mahmoudbdran/), a passionate Backend developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
