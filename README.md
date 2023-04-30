@@ -10,7 +10,7 @@
   <img align="left" alt="Mahmoud Bdran's HackerRank" width="42px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
 <a href="https://www.facebook.com/hoda30899/">
-  <img align="left" alt="Mahmoud Bdran | Facebook" width="42px" src="https://logowik.com/content/uploads/images/new-facebook-logo-2019.jpg" />
+  <img align="left" alt="Mahmoud Bdran | Facebook" width="42px" src="https://e7.pngegg.com/pngimages/670/159/png-clipart-facebook-logo-social-media-facebook-computer-icons-linkedin-logo-facebook-icon-media-internet.png" />
 </a>
 <a href="https://www.linkedin.com/in/mahmoudbdran/">
   <img align="left" alt="Mahmoud Bdran's LinkedIn" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
