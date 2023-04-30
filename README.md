@@ -4,13 +4,13 @@
   <img align="left" alt="Mahmoud's Instagram" width="42px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> -->
 <a href="https://leetcode.com/MahmoudBdran/">
-  <img align="left" alt="Mahmoud Bdran's LeetCode" width="42px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
+  <img align="left" alt="Mahmoud Bdran's LeetCode" width="52px" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />
 </a>
 <a href="https://www.hackerrank.com/mahmoud_bdran_j1">
   <img align="left" alt="Mahmoud Bdran's HackerRank" width="42px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
 <a href="https://www.facebook.com/hoda30899/">
-  <img align="left" alt="Mahmoud Bdran | Facebook" width="42px" src="https://e7.pngegg.com/pngimages/670/159/png-clipart-facebook-logo-social-media-facebook-computer-icons-linkedin-logo-facebook-icon-media-internet.png" />
+  <img align="left" alt="Mahmoud Bdran | Facebook" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/free-facebook-2038470-1718513.png" />
 </a>
 <a href="https://www.linkedin.com/in/mahmoudbdran/">
   <img align="left" alt="Mahmoud Bdran's LinkedIn" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
