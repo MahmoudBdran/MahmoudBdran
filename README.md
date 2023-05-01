@@ -1,4 +1,13 @@
-### hey there 
+### hey there
+<h1 align="center">Hi 👋, I'm Mahmoud Bdran</h1>
+<h3 align="center">A passionate Backend developer from Marsa Matrouh,Egypt</h3>
+<p align="left">
+- 💬 Ask me about **Java , Spring , C# , SQL and C#**
+
+- 📫 How to reach me **mahmoud.bdran.jobs@gmail.com**
+
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1A_c5ObWi09KEq2rWwAL5ClMQTLbrWa79/view?usp=sharing)
+
 <center>
 <!-- <a href="https://www.instagram.com/f/">
   <img align="left" alt="Mahmoud's Instagram" width="42px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -55,20 +64,10 @@ Java          9 hrs 17 mins  █████████████░░░░
 Other         1 hr           ███░░░░░░░░░░░░░░░░░░░░░░   7.09 %
 ```
 
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
+<p align="left">
 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahmoudBdran&show_icons=true&theme=gotham" alt="Mahmoud Bdran" />
+<p align="left">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahmoudBdran&show_icons=true&locale=en" alt="Mahmoud Bdran" />
 
 
 
