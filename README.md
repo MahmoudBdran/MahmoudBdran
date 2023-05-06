@@ -1,6 +1,6 @@
 ### hey there
 <h1 align="center">Hi 👋, I'm Mahmoud Bdran</h1>
-<h3 align="center">A passionate Backend developer from Marsa Matrouh,Egypt</h3>
+<h3 align="center">A passionate Backend developer from Egypt</h3>
 <p align="left">
 - 💬 Ask me about **Java , Spring , C# , SQL and C#**
 
