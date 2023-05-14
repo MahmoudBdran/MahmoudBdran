@@ -53,17 +53,6 @@ hi, i'm [Mahmoud Bdran](https://www.linkedin.com/in/mahmoudbdran/), a passionate
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Spring boot   10 hrs 36 mins ███████████████░░░░░░░░░░   61.41 %
-SQL           7 hrs 44 mins  ██████████░░░░░░░░░░░░░░░   40.72 %
-Java          9 hrs 17 mins  █████████████░░░░░░░░░░░░   51.41 %
-Other         1 hr           ███░░░░░░░░░░░░░░░░░░░░░░   7.09 %
-```
-
 <p align="left">
 📈 my github stats
 <p align="left">
