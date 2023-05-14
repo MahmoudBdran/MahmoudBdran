@@ -4,7 +4,7 @@
 <p align="left">
 - 💬 Ask me about **Java , Spring , C# , SQL and C#**
 
-- 📫 How to reach me **mahmoud.bdran.jobs@gmail.com**
+- 📫 How to reach me **mahmoud.bdran20@gmail.com**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1A_c5ObWi09KEq2rWwAL5ClMQTLbrWa79/view?usp=sharing)
 
