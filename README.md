@@ -37,7 +37,7 @@ hi, i'm [Mahmoud Bdran](https://www.linkedin.com/in/mahmoudbdran/), a passionate
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:mahmoud.bdran.jobs@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:mahmoud.bdran20@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
