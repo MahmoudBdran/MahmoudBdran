@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Bdran</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 <p align="left">
-- 💬 Ask me about **Java , Spring , C# , SQL and C#**
+- 💬 Ask me about **Java , Spring , C# , SQL and C++**
 
 - 📫 How to reach me **mahmoud.bdran20@gmail.com**
 
