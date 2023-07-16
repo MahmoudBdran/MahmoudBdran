@@ -22,7 +22,7 @@
   <img align="left" alt="Mahmoud Bdran | Facebook" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/free-facebook-2038470-1718513.png" />
 </a>
 <a href="https://www.linkedin.com/in/mahmoudbdran/">
-  <img align="left" alt="Mahmoud Bdran's LinkedIn" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mahmoud Bdran's LinkedIn" width="42px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 </center>
