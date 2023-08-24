@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **mahmoud.bdran20@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Ql9K5efZRiXGQ-T052Qs7wmhapegypzk/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1EdlSd1HV8jk7HF74jDIGmIHeZCqz-xSy/view?usp=sharing)
 
 <center>
 <!-- <a href="https://www.instagram.com/f/">
